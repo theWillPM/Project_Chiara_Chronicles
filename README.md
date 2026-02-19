@@ -1,11 +1,15 @@
 # Chiara Chronicles
 ### A Custom-Built C# RPG Engine Project
 This pixel-art RPG features a kid who loves playing and doing farm chores during the day, but at night, their nightmares surface, and they must battle monsters that attack during their sleep.
+In this game, players have to collect carrots to gain experience points and craft new equipment (not yet implemented), levelling up to become stronger and defeat the monsters that haunt them in their sleep.
 
-### Download latest release:
+### Latest release
 [![GitHub release](https://img.shields.io/github/v/release/theWillPM/Project_Chiara_Chronicles?include_prereleases&label=latest%20build)](https://github.com/theWillPM/Project_Chiara_Chronicles/releases)
 
-In this game, players have to collect carrots to gain experience points and craft new equipment, levelling up to become stronger and defeat the monsters that haunt them in their sleep.
+### Download Link
+https://github.com/theWillPM/Project_Chiara_Chronicles/releases/download/v0.1.0/ChiaraChronicles_v0_1_0.zip
+
+
 
 
 # Controls
