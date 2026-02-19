@@ -1,6 +1,5 @@
 ###
-![version](https://img.shields.io/badge/version-v0.1.0--pre--alpha-orange)
-
+[![GitHub release](https://img.shields.io/github/v/release/theWillPM/Project_Chiara_Chronicles?include_prereleases&label=latest%20build)](https://github.com/theWillPM/Project_Chiara_Chronicles/releases)
 
 # project-carrot-game
 This pixel-art RPG features a kid who loves playing and doing farm chores during the day, but at night, their nightmares surface, and they must battle monsters that attack during their sleep.
