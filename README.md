@@ -1,5 +1,6 @@
 ###
-`VERY EARLY DEVELOPMENT VERSION: 0.1.0`
+![version](https://img.shields.io/badge/version-v0.1.0--pre--alpha-orange)
+
 
 # project-carrot-game
 This pixel-art RPG features a kid who loves playing and doing farm chores during the day, but at night, their nightmares surface, and they must battle monsters that attack during their sleep.
